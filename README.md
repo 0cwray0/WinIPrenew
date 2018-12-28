@@ -14,7 +14,6 @@ To Run:
 cd navigate\to\directory\where\batch\file\resides
 WinIPrenew.bat
 ```
-</br>
 
 ## Issues:
 Certain operators still evade the input sanitization I've instituted. Ex. ([<],[>],[,],[|],["],[;])
