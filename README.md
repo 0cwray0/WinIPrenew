@@ -3,6 +3,7 @@
 
 ## Purpose:
 The purpose of this batch script is to re-establish all network adapter TCP/IP connections of a Windows PC based upon the number of seconds that the user inputs.</br>
+
 This is a hold over meant for very niche purposes such as constant NIC connectivity issues or corporate network issues, and carries NO stated warranty.</br>  
 
 ## Usage:
